@@ -1,0 +1,2 @@
+# ClipCompanion
+Rag Based Application
